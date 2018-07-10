@@ -16,6 +16,6 @@ public class Demo {
         ApplicationContext cxf = new AnnotationConfigApplicationContext(AppConfig.class);
         InfService infService =(InfService) cxf.getBean("infService");
         infService.add();;
-        System.out.println("######");
+        System.out.println("######111222");
     }
 }
