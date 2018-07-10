@@ -9,6 +9,6 @@ import org.springframework.stereotype.Repository;
 public class InfDao {
 
     public void add(){
-        System.out.println("向数据库添加了数据");
+        System.out.println("向数据库添加了数据12345");
     }
 }
